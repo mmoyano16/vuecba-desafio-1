@@ -3,7 +3,7 @@ import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
 
 // import bootstrap
-import "../assets/lib/bootstrap.min.css"
+import "../assets/lib/bootstrap.css"
 
 Vue.use(VueRouter)
 
